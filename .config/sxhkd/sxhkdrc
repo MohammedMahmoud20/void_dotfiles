@@ -1,0 +1,22 @@
+# Volume mute with Super+0
+super + 0
+    amixer -q sset Master toggle
+# Volume mute with F1
+F1
+    amixer -q sset Master toggle
+
+# Volume down with F2
+F2
+    amixer -q sset Master 1%-
+
+# Volume up wit F3
+F3
+    amixer -q sset Master 1%+
+
+# Volume down with Super+-
+super + minus
+    amixer -q sset Master 1%-
+
+# Volume up with Super+=
+super + equal
+    amixer -q sset Master 1%+

@@ -1,0 +1,52 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.13 (PycharmProjects)" />
+      <type value="Python SDK" />
+      <version value="Python 3.13.7" />
+      <homePath value="$USER_HOME$/PycharmProjects/.venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.13" type="simple" />
+            <root url="file:///usr/lib/python3.13/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/PycharmProjects/.venv/lib/python3.13/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2025.2/python_stubs/-1681029593" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/PycharmProjects" SDK_UUID="6c0a7176-fd72-4e9b-b93d-9f695d6676bc">
+        <setting name="FLAVOR_ID" value="VirtualEnvSdkFlavor" />
+        <setting name="FLAVOR_DATA" value="{}" />
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.13 virtualenv at ~/src/pycharm/PycharmProjects/.venv" />
+      <type value="Python SDK" />
+      <version value="Python 3.13.7" />
+      <homePath value="$USER_HOME$/src/pycharm/PycharmProjects/.venv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file:///usr/lib/python3.13" type="simple" />
+            <root url="file:///usr/lib/python3.13/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/src/pycharm/PycharmProjects/.venv/lib/python3.13/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.cache/JetBrains/PyCharm2025.2/python_stubs/-2000464525" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python-ce/helpers/typeshed/stdlib" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional SDK_UUID="957ed4e8-24a1-40af-b647-0f491ed88e40">
+        <setting name="FLAVOR_ID" value="VirtualEnvSdkFlavor" />
+        <setting name="FLAVOR_DATA" value="{}" />
+      </additional>
+    </jdk>
+  </component>
+</application>

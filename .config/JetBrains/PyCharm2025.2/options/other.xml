@@ -1,0 +1,68 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="LangManager">
+    <option name="languageName" value="Python" />
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="13.0" />
+    <option name="ideScale" value="1.5" />
+    <option name="presentationModeIdeScale" value="1.75" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "6",
+    "Notification.DisplayName-DoNotAsk-STICKY:Feedback In IDE": "Important feedback in IDE",
+    "Notification.DoNotAsk-STICKY:Feedback In IDE": "true",
+    "PyCharm.InitialConfiguration": "true",
+    "PyCharm.InitialConfiguration.V2": "true",
+    "PyCharm.InitialConfiguration.V3": "true",
+    "PyCharm.InitialConfiguration.V4": "true",
+    "PyCharm.InitialConfiguration.V5": "true",
+    "PyCharm.InitialConfiguration.V6": "true",
+    "PyCharm.InitialConfiguration.V7": "true",
+    "PyCharm.InitialConfiguration.V8": "true",
+    "RunOnceActivity.TerminalOptionsProvider.migration.2025.1.1": "true",
+    "RunOnceActivity.VFSInitializationConditionsToFusReporter": "true",
+    "RunOnceActivity.git.modal.commit.toggle": "true",
+    "RunOnceActivity.reset.auto.reparse.settings.to.default": "true",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "evlsprt3.252": "4",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "252.26830.99",
+    "experimentalFeature.terminal.shell.command.handling": "false",
+    "fileTypeChangedCounter": "2",
+    "fontSizeToResetConsole": "13.0",
+    "fontSizeToResetEditor": "13.0",
+    "ide.islands.ab2": "true",
+    "ide.islands.show.feedback2.time": "1760528517215",
+    "ift.hide.welcome.screen.promo": "true",
+    "ignore.ide.script.launcher.used": "true",
+    "input.method.disabler.muted": "true",
+    "last_opened_file_path": "/home/malek/src/pycharm/PycharmProjects",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Islands Dark",
+    "python.new.interpreter.fav.manager": "VIRTUALENV",
+    "python.new.interpreter.fav.method": "CREATE_NEW",
+    "python.new.interpreter.fav.mode": "PROJECT_VENV",
+    "registry.to.advanced.settings.migration.build": "PY-252.26830.99",
+    "terminal.gen.one.option.visible": "false",
+    "terminal.is.new.user": "true",
+    "trial.state.last.availability.check": "1760527768881",
+    "trial.state.last.availability.state": "true",
+    "trial.state.last.state": "TRIAL_AVAILABLE",
+    "whats.new.last.shown.version": "2025-2.3-26830-bf9800fe06357a8d934337c13de66c2b153b9545"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/malek/src/pycharm/PycharmProjects",
+      "/home/malek/PycharmProjects"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.docker.dockerFile.DockerFileTypeDetector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+</application>
